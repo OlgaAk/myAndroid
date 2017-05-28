@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp26_5_17</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="lezione">Lezione</string>
+    <string name="dialogo1">
+        Piera: Scusi, Lei è Alessandra Ivanova? 
+        \nPersona: No, mi dispiace, sono Silvia Lagosta. 
+        \nPaolo: Forse questa è Alessandra... 
+        \nPiera: Ma no, Alessandra è bionda. 
+        \nValentina: Mamma, eccoA lessandra, la ragazza con la valigia. 
+        \nPiera: Alessandra, Alessandra! Siamo qui! Ciao, cara! 
+        \nAlessandra: Buongiorno, signora Simoni. 
+        \nPiera: Benvenuta a Milano, cara, tutto bene? 
+        \nAlessandra: Sì, tutto bene, grazie, ma sono un po’ stanca per il viaggio. Questo è Stefano, vero? 
+        \nPiera: No, questo non è Stefano, questo è Paolo, un amico di Valentina. Stefano è a casa, con la nonna. 
+        \nAlessandra: E questa è Valentina! 
+        \nValentina: Giusto, io sono Valentina, piacere, Alessandra. 
+        \nAlessandra: Piacere. 
+        \nPiera: Ora andiamo, Alessandraè  moltos tanca, poverina, il viaggio è così lungo. Andiamo, andiamo!</string>
+
+</resources>
